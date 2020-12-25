@@ -27,3 +27,4 @@
 - [Security Fest 2016 The Secret life of a Bug Bounty Hunter - Frans Rosén](https://www.youtube.com/watch?v=KDo68Laayh8)
 - [The Conscience of a Hacker](https://www.youtube.com/watch?v=0tEnnvZbYek)
 - [Defcon 2020 Talks](https://www.youtube.com/user/DEFCONConference/videos)
+/
